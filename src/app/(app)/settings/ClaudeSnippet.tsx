@@ -4,7 +4,7 @@ import { useState } from "react";
 import { Copy, Check } from "lucide-react";
 
 function buildSnippet(apiKey: string, appUrl: string) {
-  return `Install the Lokum CLI for Lokumerie, our team's private skill registry. Run this single command:
+  return `Install the Lokum CLI for Lokumerie, a self-hosted private package registry for team AI know-how. Run this single command:
 
 curl -sL ${appUrl}/lokum.sh | LOKUM_API_KEY=${apiKey} bash -s -- setup
 

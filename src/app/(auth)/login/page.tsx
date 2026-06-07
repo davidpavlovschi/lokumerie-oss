@@ -30,7 +30,7 @@ export default function LoginPage() {
             Lokumerie
           </h1>
           <p className="mt-2 text-sm text-text-muted">
-            Private skill workspace for your team
+            Private package registry for team AI know-how
           </p>
         </div>
 

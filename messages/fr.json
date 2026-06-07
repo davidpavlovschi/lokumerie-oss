@@ -110,8 +110,8 @@
     "keyNote": "La clé sera envoyée à {target} uniquement."
   },
   "landing": {
-    "hero": "Registre privé de skills pour équipes IA",
-    "heroSub": "Partagez prompts, skills Codex, sources et savoir-faire d'équipe dans un espace auto-hébergé.",
+    "hero": "Registre privé auto-hébergé pour le savoir-faire IA d'équipe",
+    "heroSub": "Partagez prompts, skills Codex, sources et savoir-faire IA d'équipe dans un espace auto-hébergé.",
     "cli": "CLI",
     "installTitle": "Installation en quelques secondes",
     "installDesc": "Une commande pour installer. Une commande pour se connecter.",
@@ -124,7 +124,7 @@
     "cmdList": "Lister vos skills",
     "cmdSearch": "Chercher un skill",
     "cmdInstall": "Télécharger un skill ou dossier Codex",
-    "footer": "Conçu pour transformer les apprentissages d'équipe en skills réutilisables"
+    "footer": "Conçu pour transformer le savoir-faire d'équipe en skills réutilisables"
   },
   "common": {
     "save": "Sauvegarder",

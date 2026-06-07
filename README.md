@@ -1,8 +1,8 @@
 # Lokumerie
 
-Lokumerie is a self-hosted skill registry for teams that work with AI coding agents.
+Lokumerie is a self-hosted private package registry for team AI know-how.
 
-Think of it as a private package registry for operating knowledge: prompts, Codex or Claude-style skill folders, runbooks, source notes, and curated collections that help a team reuse what it learns instead of rediscovering it in scattered chats.
+It gives collaborating teams a private place to publish, version, search, install, and curate the prompts, Codex or Claude-style skill folders, runbooks, source notes, and hard-won lessons that help a project get smarter over time.
 
 ## Why
 
@@ -113,6 +113,17 @@ npx prisma migrate deploy
 npm run build
 npm run start
 ```
+
+## Maintainer
+
+Built by [David Pavlovschii](https://www.doved.page/).
+
+Socials and related links:
+
+- [doved.page](https://www.doved.page/)
+- [GitHub](https://github.com/davidpavlovschi)
+- [X / @real_doved](https://x.com/real_doved)
+- [Codex++ Linux](https://github.com/davidpavlovschi/codex-plusplus-linux)
 
 ## License
 

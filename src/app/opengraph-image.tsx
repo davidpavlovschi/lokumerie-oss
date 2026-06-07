@@ -2,7 +2,7 @@ import { ImageResponse } from "next/og";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
-export const alt = "Lokumerie - private skill registry for teams";
+export const alt = "Lokumerie - self-hosted private package registry for team AI know-how";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -78,7 +78,7 @@ export default async function Image() {
               lineHeight: 1.3,
             }}
           >
-            Private skill registry for teams
+            Self-hosted private package registry for team AI know-how
           </div>
           <div
             style={{
@@ -88,7 +88,7 @@ export default async function Image() {
               marginTop: "8px",
             }}
           >
-            Share prompts, Codex skills, sources, and team know-how from one self-hosted workspace.
+            Share prompts, Codex skills, sources, and team AI know-how from one self-hosted workspace.
           </div>
         </div>
       </div>

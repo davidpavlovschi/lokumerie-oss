@@ -110,8 +110,8 @@
     "keyNote": "The key will be sent to {target} only."
   },
   "landing": {
-    "hero": "Private skill registry for AI teams",
-    "heroSub": "Share prompts, Codex skills, sources, and team know-how from one self-hosted workspace.",
+    "hero": "Self-hosted private package registry for team AI know-how",
+    "heroSub": "Share prompts, Codex skills, sources, and team AI know-how from one self-hosted workspace.",
     "cli": "CLI",
     "installTitle": "Install in seconds",
     "installDesc": "One command to install. One command to log in.",
@@ -124,7 +124,7 @@
     "cmdList": "List your skills",
     "cmdSearch": "Search for a skill",
     "cmdInstall": "Download a skill or Codex folder",
-    "footer": "Built for teams that turn hard-won lessons into reusable skills"
+    "footer": "Built for teams that turn hard-won know-how into reusable skills"
   },
   "common": {
     "save": "Save",

@@ -1,7 +1,7 @@
 {
   "name": "lokumerie",
   "version": "0.1.0",
-  "description": "A self-hosted skill registry for teams that share AI operating knowledge.",
+  "description": "Self-hosted private package registry for team AI know-how.",
   "license": "MIT",
   "private": false,
   "scripts": {
